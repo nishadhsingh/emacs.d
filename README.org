@@ -1,0 +1,2 @@
+*  emacs.d
+** emacs config using org mode bable thus important stuff is in init.org
